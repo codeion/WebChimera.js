@@ -20,6 +20,6 @@
     "cmake-js": "*"
   },
   "scripts": {
-    "install": "node rebuild.js"
+    "postinstall": "./postinstall.sh"
   }
 }

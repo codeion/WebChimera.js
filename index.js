@@ -1,1 +1,1 @@
-module.exports = require("bindings")("WebChimera.js");
+module.exports = require('./WebChimera.js.node')
